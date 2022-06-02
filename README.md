@@ -9,7 +9,7 @@ Hi there, I'm **Zamzam Saputra**, a **Web Developer** and a **Software Engineeri
 - 📫 You can reach me at zamsyh.work@gmail.com
 - 😄 I'm natively speak Indonesian and fluently speak english especially british accent
 - ⚡ Passionate about creating open source projects
-- 💕 I'm currently fall in love with React and Laravel
+- 💕 I'm currently fall in love with TALL Stack and MERN Stack
 - 💬 Ask me about anything, I am happy to help
 
 **Languages and Tools:**  
