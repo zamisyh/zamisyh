@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![github stats](https://github-readme-stats.vercel.app/api?username=zamisyh&show_icons=true)
+![github stats]()
 
 Hi there, I'm **Zami**, a **Full Stack Developer** and a **Software Engineering Student** 🚀 from Indonesia, currently, I'm a Community Team Member 🙍🏽‍♂️ [@Mindpulation](https://github.com/Mindpulation), . My interests range from technology to entrepreneurship. I am also interested in reading, programming, and web development
 
