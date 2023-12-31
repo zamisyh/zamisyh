@@ -2,10 +2,10 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=zamisyh&show_icons=true)
 
-Hi there, I'm **Zamzam Saputra**, a **Web Developer** and a **Software Engineering Student** 🚀 from Indonesia, currently, I'm a Community Team Member 🙍🏽‍♂️ [@Mindpulation](https://github.com/Mindpulation), . My interests range from technology to entrepreneurship. I am also interested in reading, programming, and web development
+Hi there, I'm **Zami**, a **Full Stack Developer** and a **Software Engineering Student** 🚀 from Indonesia, currently, I'm a Community Team Member 🙍🏽‍♂️ [@Mindpulation](https://github.com/Mindpulation), . My interests range from technology to entrepreneurship. I am also interested in reading, programming, and web development
 
 - 🔭 I’m currently working on a project as my team, you can check on our organization <a href="https://github.com/Mindpulation"> Mindpulation </a>
-- 🌱 I’m currently learning React, NodeJS and DevOps
+- 🌱 I’m currently learning MERN Stack, Golang and DevOps
 - 📫 You can reach me at zamsyh.work@gmail.com
 - 😄 I'm natively speak Indonesian and fluently speak english especially british accent
 - ⚡ Passionate about creating open source projects
